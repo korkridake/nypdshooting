@@ -1,7 +1,5 @@
 # Final Project I: NYPD Shooting Incident Data
 
-TBA
-
 ## About Data
 
 List of every shooting incident that occurred in NYC going back to 2006 through the end of the previous calendar year.
@@ -23,3 +21,5 @@ TBA
 ## Additional Resources
 
 * [NYPD Shooting Incident Data (Historic) - CKAN](https://catalog.data.gov/dataset/nypd-shooting-incident-data-historic)
+* [Hate crimes, shooting incidents in New York City have surged since last year, NYPD data show - CNN](https://edition.cnn.com/2021/06/04/us/new-york-city-hate-crimes/index.html)
+* [NYC, Chicago see another wave of weekend gun violence](https://news.yahoo.com/nyc-chicago-see-another-wave-020519535.html)
